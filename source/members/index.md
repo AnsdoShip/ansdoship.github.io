@@ -18,7 +18,6 @@ ERR!
 [JDSA Ling](https://github.com/LingASDJ)
 [Prohonor](https://github.com/Aislandz)
 [Daniel Calan](https://github.com/DanielCalan)
-[大西洋秘制水煮H39](https://github.com/H39ClassBB)
 [路人葵](https://github.com/Seraph-new)
 [Dr](https://github.com/deng-rui)
 [SteveUbuntu](https://github.com/SteveUbuntu0)
