@@ -42,6 +42,8 @@ ERR!
 黑墨水写白字
 Lyndon56
 AACmay
+狐影
+candy
 赖渊
 多多
 Icdy冰冻鱼
