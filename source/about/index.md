@@ -17,7 +17,7 @@ date: 2022-11-28 16:15:09
 [AnsdoShip （Gitter 聊天室）](https://gitter.im/AnsdoShip/community)
 [KansdoShip（Discord 频道）](https://discord.gg/Np7mP2wFUU)
 [XansdoShip（QQ 群）](https://jq.qq.com/?wv=1027&k=Af0aT21o)
-[LansdoShip（BAND 社区）](https://band.us/n/a1a889k878D8s)
+[LansdoShip（BAND 社团）](https://band.us/n/a1a889k878D8s)
 
 # 历史
 
