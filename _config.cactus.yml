@@ -95,7 +95,8 @@ logo:
   enabled: true
   width: 64
   height: 64
-  url: /images/ansdoship-400x400.png
+  url: /images/ansdoship.png
+  #url: /images/ansdoship-400x400.png
   gravatar: false
   grayout: false
 
@@ -110,13 +111,16 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/ansdoship-48x48.png
+    url: /images/ansdoship.png
+    #url: /images/ansdoship-48x48.png
     gravatar: false
   android:
-    url: /images/ansdoship-192x192.png
+    url: /images/ansdoship.png
+    #url: /images/ansdoship-192x192.png
     gravatar: false
   apple:
-    url: /images/ansdoship-180x180.png
+    url: /images/ansdoship.png
+    #url: /images/ansdoship-180x180.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
