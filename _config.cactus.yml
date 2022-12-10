@@ -95,8 +95,7 @@ logo:
   enabled: true
   width: 64
   height: 64
-  url: /images/ansdoship.png
-  #url: /images/ansdoship-400x400.png
+  url: /images/ansdoship-400x400.png
   gravatar: false
   grayout: false
 
