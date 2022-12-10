@@ -111,16 +111,13 @@ logo:
 #   - gravatar: whether to create a favicon from your Gravatar
 favicon:
   desktop:
-    url: /images/ansdoship.png
-    #url: /images/ansdoship-48x48.png
+    url: /images/ansdoship-48x48.png
     gravatar: false
   android:
-    url: /images/ansdoship.png
-    #url: /images/ansdoship-192x192.png
+    url: /images/ansdoship-192x192.png
     gravatar: false
   apple:
-    url: /images/ansdoship.png
-    #url: /images/ansdoship-180x180.png
+    url: /images/ansdoship-180x180.png
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
