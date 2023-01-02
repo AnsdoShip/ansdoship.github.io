@@ -20,13 +20,13 @@ ERR!
 [Daniel Calan](https://github.com/DanielCalan)
 [路人葵](https://github.com/Seraph-new)
 [Dr](https://github.com/deng-rui)
-[SteveUbuntu](https://github.com/SteveUbuntu0)
+[SteveUbuntu](https://github.com/Stevesuk0)
 
 ## 成员
 [风景](https://github.com/Foerview)
 [手电](https://github.com/FLASHLIGHT-POWER)
 [不败星辰](https://github.com/InvincibleStars)
-[LAG](https://github.com/LAGSNES)
+[LAG](https://github.com/LAGQWQ)
 [45](https://github.com/456ks)
 [二月](https://github.com/allureluoli)
 [Catand](https://github.com/catandA)
