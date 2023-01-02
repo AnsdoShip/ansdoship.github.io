@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>新的工作室网站！</title>
+      <link href="/2022/11/28/the-new-site/"/>
+      <url>/2022/11/28/the-new-site/</url>
+      
+        <content type="html"><![CDATA[<p>答舟工作室 的原网站（WordPress 搭建的）已经废弃多时，需要一个新的网站。</p><p>动态站还是静态站呢？<br>我觉得，搭建一个静态站用 GitHub Page 挂在 GitHub 上比较符合答舟工作室现在的状态：一个松散的挂名组织，所有活动仅限线上。</p><p>本站使用我熟悉的博客框架 <a href="https://hexo.io/">Hexo</a> 搭建，主题选用了 <a href="https://github.com/probberechts/hexo-theme-cactus">hexo-theme-cactus</a>。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
