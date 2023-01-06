@@ -5,4 +5,4 @@ git commit -m "Site updated: $(date "+%Y-%m-%d %H:%M:%S")"
 git pull origin main
 git push origin main
 
-hexo clean && hexo deploy
+npx hexo clean && npx hexo deploy
