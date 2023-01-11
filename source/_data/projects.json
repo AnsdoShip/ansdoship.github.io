@@ -1,10 +1,5 @@
 [
     {
-       "name":"A3WT",
-       "url":"https://github.com/AnsdoShip/a3wt",
-       "desc":"由 Java 写成的，跨平台的客户端开发框架"
-    },
-    {
        "name":"魔绫像素地牢",
        "url":"https://github.com/AnsdoShip/magic-ling-pixel-dungeon",
        "desc":"主要由 JDSA Ling 制作的 像素地牢 改版"
