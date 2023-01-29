@@ -1,0 +1,17 @@
+[
+    {
+       "name":"魔绫像素地牢",
+       "url":"https://github.com/AnsdoShip/magic-ling-pixel-dungeon",
+       "desc":"主要由 JDSA Ling 制作的 像素地牢 改版"
+    },
+    {
+       "name":"碳素地牢",
+       "url":"https://github.com/AnsdoShip/carbonized-pixel-dungeon",
+       "desc":"主要由 碳酸天剑 制作的 像素地牢 改版，目标是探索一条 破碎的像素地牢 “未曾设想的道路”"
+    },
+    {
+       "name":"碳化战争",
+       "url":"https://github.com/AnsdoShip/carbonized-warfare-rwmod",
+       "desc":"主要由 碳酸天剑 制作的 铁锈战争 模组，专注于对 铁锈战争 的再平衡和多阵营战斗"
+    }
+]
