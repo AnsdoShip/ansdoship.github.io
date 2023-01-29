@@ -1,2 +1,2 @@
 # ansdoship.github.io
-Official site of AnsdoShip Studio.
+Official website of AnsdoShip Studio.
