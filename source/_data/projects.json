@@ -3,5 +3,15 @@
        "name":"魔绫像素地牢",
        "url":"https://github.com/AnsdoShip/magic-ling-pixel-dungeon",
        "desc":"主要由 JDSA Ling 制作的 像素地牢 改版"
+    },
+    {
+       "name":"碳素地牢",
+       "url":"https://github.com/AnsdoShip/carbonized-pixel-dungeon",
+       "desc":"主要由 碳酸天剑 制作的 像素地牢 改版"
+    },
+    {
+       "name":"碳化战争",
+       "url":"https://github.com/AnsdoShip/carbonized-warfare",
+       "desc":"主要由 碳酸天剑 制作的 铁锈战争 mod，专注于多阵营战斗"
     }
 ]
