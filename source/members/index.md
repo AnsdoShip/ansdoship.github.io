@@ -39,7 +39,6 @@ ERR!
 [Pldada](https://github.com/Mostlai)
 [绝地战士](https://github.com/ljlVink)
 [阁闻](https://github.com/Thewildprogrammeroftheunderworld)
-[Tan](https://github.com/Tan-666-printf)
 黑墨水写白字
 Lyndon56
 AACmay
@@ -68,5 +67,4 @@ South Dems
 九天
 大帝六号
 Vagrant137
-永野一夏
 试玩达人
