@@ -15,6 +15,7 @@ WoW
 
 ## 管理员
 ERR!
+[H39ClassBB](https://github.com/H39ClassBB)
 [JDSA Ling](https://github.com/LingASDJ)
 [Prohonor](https://github.com/Aislandz)
 [Daniel Calan](https://github.com/DanielCalan)
