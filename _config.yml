@@ -5,15 +5,7 @@
 # Site
 title: 答舟工作室
 subtitle: 'Happy programming! Just for fun!'
-description: '
-# 分部
-
-[![Gitter](https://img.shields.io/gitter/room/AnsdoShip/community?logo=gitter&style=for-the-badge)](https://gitter.im/AnsdoShip/community)
-[![Discord](https://img.shields.io/discord/978644808102994020?style=for-the-badge&logo=discord)](https://discord.gg/Np7mP2wFUU)
-[![QQ](https://img.shields.io/badge/join-QQ%20group-brightgreen?logo=tencentqq&style=for-the-badge)](https://jq.qq.com/?_wv=1027&k=Af0aT21o)
-
-[![Band](https://img.shields.io/badge/join-Band.us%20community-brightgreen?style=for-the-badge)](https://band.us/n/a1a889k878D8s)
-'
+description: ''
 keywords:
 author: AnsdoShip
 language: zh-CN

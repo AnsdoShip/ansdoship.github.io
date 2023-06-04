@@ -18,12 +18,12 @@ direction: ltr
 nav:
   home: /
   about: /about/
+  substudio: /substudio/
   articles: /archives/
   members: /members/
   customary-law: /customary-law/
   projects: https://github.com/AnsdoShip
   search: /search/
-  chatroom: /chatroom/
 
 
 # Links to your social media accounts.

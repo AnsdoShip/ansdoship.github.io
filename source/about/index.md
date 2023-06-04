@@ -11,10 +11,3 @@ date: 2022-11-28 16:15:09
 如果你有一技之长，想要开发软件，又认为自己无法独立开发，想找人合作，可以考虑来答舟工作室挂名！
 本工作室没有强制劳动（当然也没有固定工资）、全程线上办公、内部环境宽松，考核也在线上进行！
 若有意愿，请[发邮件联系室长](mailto://tianscar@protonmail.com)！
-
-## 工作室分部一览
-[AnsdoShip （GitHub 组织）](https://github.com/AnsdoShip)
-[AnsdoShip （Gitter 聊天室）](https://gitter.im/AnsdoShip/community)
-[KansdoShip（Discord 频道）](https://discord.gg/Np7mP2wFUU)
-[XansdoShip（QQ 群）](https://jq.qq.com/?wv=1027&k=Af0aT21o)
-[LansdoShip（BAND 社团）](https://band.us/n/a1a889k878D8s)
