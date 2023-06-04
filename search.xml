@@ -4,58 +4,6 @@
   
     
     <entry>
-      <title>重新加入 碳化战争 和 碳素地牢</title>
-      <link href="/2023/03/10/re-added-capd-and-cwdf/"/>
-      <url>/2023/03/10/re-added-capd-and-cwdf/</url>
-      
-        <content type="html"><![CDATA[<p>将 碳化战争 和 碳素地牢（重载版本）重新加入到 AnsdoShip 的项目列表。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>碳化战争 不再属于 AnsdoShip</title>
-      <link href="/2023/03/08/carbonized-warfare-is-no-longer-owned-by-AnsdoShip/"/>
-      <url>/2023/03/08/carbonized-warfare-is-no-longer-owned-by-AnsdoShip/</url>
-      
-        <content type="html"><![CDATA[<p>将 碳化战争 从 AnsdoShip 的项目列表中移除，碳化战争 不再是 AnsdoShip 工作室项目了。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>碳素地牢 不再维护</title>
-      <link href="/2023/02/25/carbonized-pixel-dungeon-is-no-longer-maintained/"/>
-      <url>/2023/02/25/carbonized-pixel-dungeon-is-no-longer-maintained/</url>
-      
-        <content type="html"><![CDATA[<p>将 碳素地牢 从 AnsdoShip 的项目列表中移除并封存仓库，碳素地牢 不再维护。</p><p>碳酸天剑个人维护的后续版本请见 <a href="https://github.com/Tianscar/carbonized-pixel-dungeon-reloaded/">https://github.com/Tianscar/carbonized-pixel-dungeon-reloaded/</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>A3WT 不再属于 AnsdoShip</title>
-      <link href="/2023/01/12/a3wt-is-no-longer-owned-by-AnsdoShip/"/>
-      <url>/2023/01/12/a3wt-is-no-longer-owned-by-AnsdoShip/</url>
-      
-        <content type="html"><![CDATA[<p>将 A3WT 从 AnsdoShip 的项目列表中移除，A3WT 不再是 AnsdoShip 工作室项目了。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>习惯法更新 2023-01-06 19:42:47</title>
       <link href="/2023/01/06/custom-law-update-2023-01-06-19-42-47/"/>
       <url>/2023/01/06/custom-law-update-2023-01-06-19-42-47/</url>
@@ -74,19 +22,6 @@
       <url>/2023/01/04/customary-law-update-2023-01-04-19-43-29/</url>
       
         <content type="html"><![CDATA[<p>目前最新版本：v1.4.5</p><p>本次更新修订了分部规则，修改部分如下：<br>本工作室成员有权在 5 人及以上达成共识的情况下踢出分部内任何非工作室成员的人，若在平台没有权限，有权限者在客观条件允许的情况下原则上需无条件代劳。<br>原则上分部禁止小号，若无正当理由，小号一经发现立即踢出。<br>原则上分部禁止谈论政治内容（除非专门设立了政治分区）。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>新的工作室网站！</title>
-      <link href="/2022/11/28/the-new-site/"/>
-      <url>/2022/11/28/the-new-site/</url>
-      
-        <content type="html"><![CDATA[<p>答舟工作室 的原网站（WordPress 搭建的）已经废弃多时，需要一个新的网站。</p><p>动态站还是静态站呢？<br>我觉得，搭建一个静态站用 GitHub Page 挂在 GitHub 上比较符合答舟工作室现在的状态：一个松散的挂名组织，所有活动仅限线上。</p><p>本站使用我熟悉的博客框架 <a href="https://hexo.io/">Hexo</a> 搭建，主题选用了 <a href="https://github.com/probberechts/hexo-theme-cactus">hexo-theme-cactus</a>。</p>]]></content>
       
       
       
