@@ -15,9 +15,9 @@ WoW
 
 ## 管理员
 ERR!
-[H39ClassBB](https://github.com/H39ClassBB)
-[JDSA Ling](https://github.com/LingASDJ)
-[Prohonor](https://github.com/Aislandz)
+[染色质](https://github.com/H39ClassBB)
+[白绫祈愿](https://github.com/LingASDJ)
+[ProHonor](https://github.com/Aislandz)
 [Daniel Calan](https://github.com/DanielCalan)
 [路人葵](https://github.com/Seraph-new)
 [Dr](https://github.com/deng-rui)
