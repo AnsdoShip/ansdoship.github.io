@@ -18,10 +18,10 @@ direction: ltr
 nav:
   home: /
   about: /about/
-  substudios: /substudios/
+  subs: /subs/
   articles: /archives/
   members: /members/
-  customary-law: /customary-law/
+  rules: /rules/
   projects: https://github.com/AnsdoShip
   search: /search/
 
