@@ -29,13 +29,11 @@ WoW
 [LAG](https://github.com/LAGQWQ)
 [Kkforkd](https://github.com/Kkforkd)
 [45](https://github.com/456ks)
-[二月](https://github.com/allureluoli)
 [Catand](https://github.com/catandA)
 [仓鼠](https://github.com/CN-HamSter)
 [RW_HGJS](https://github.com/RWHGJS)
 [cululua](https://github.com/mewCu)
 [LAICI](https://github.com/PandaDecSt)
-[Naptie](https://github.com/Naptie)
 [Pldada](https://github.com/Mostlai)
 [绝地战士](https://github.com/ljlVink)
 [阁闻](https://github.com/Thewildprogrammeroftheunderworld)
@@ -43,10 +41,9 @@ WoW
 Lyndon56
 AACmay
 CDCL
+凰羽
 狐影
-candy
 赖渊
-多多
 Icdy冰冻鱼
 Infinite heaven
 落千韵
