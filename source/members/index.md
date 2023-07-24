@@ -14,7 +14,6 @@ date: 2022-11-28 16:47:23
 WoW
 
 ## 管理员
-[染色质](https://github.com/H39ClassBB)
 [白绫祈愿](https://github.com/LingASDJ)
 [ProHonor](https://github.com/Aislandz)
 [Daniel Calan](https://github.com/DanielCalan)
