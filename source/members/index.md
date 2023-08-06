@@ -44,6 +44,7 @@ CDCL
 狐影
 赖渊
 Icdy冰冻鱼
+加尔加诺尼亚
 Infinite heaven
 落千韵
 隐名于世
