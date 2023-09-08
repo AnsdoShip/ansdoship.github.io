@@ -38,7 +38,6 @@ WoW
 [阁闻](https://github.com/Thewildprogrammeroftheunderworld)
 黑墨水写白字
 Lyndon56
-AACmay
 CDCL
 凰羽
 狐影
