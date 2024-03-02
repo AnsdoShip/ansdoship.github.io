@@ -9,6 +9,9 @@ date: 2022-11-28 16:47:23
 ## 室长
 [碳酸天剑](https://github.com/Tianscar)
 
+## 代理室长
+[SteveUbuntu](https://github.com/Stevesuk0)
+
 ## 副室长
 [Dobando](https://github.com/Dobmod)
 WoW
@@ -19,7 +22,6 @@ WoW
 [Daniel Calan](https://github.com/DanielCalan)
 [路人葵](https://github.com/Seraph-new)
 [Dr](https://github.com/deng-rui)
-[SteveUbuntu](https://github.com/Stevesuk0)
 
 ## 成员
 [风景](https://github.com/Foerview)
